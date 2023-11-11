@@ -1,0 +1,13 @@
+$TTL 1D
+@	IN SOA	@ server.dmgeneralov.net. (
+					2023111100	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	@
+	A	192.168.1.1
+$ORIGIN dmgeneralov.net.
+
+server	A	192.168.1.1
+ns	A	192.168.1.1

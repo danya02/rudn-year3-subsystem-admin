@@ -1,0 +1,11 @@
+zone "dmgeneralov.net" IN {
+	type master;
+	file "master/fz/dmgeneralov.net";
+	allow-update { none; };
+};
+
+zone "1.168.192.in-addr.arpa" IN {
+	type master;
+	file "master/rz/192.168.1";
+	allow-update { none; };
+};
