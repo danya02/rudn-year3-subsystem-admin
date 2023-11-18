@@ -1,14 +1,18 @@
-$TTL 1D
-@	IN SOA	@ server.dmgeneralov.net. (
-					2023111100	; serial
-					1D	; refresh
-					1H	; retry
-					1W	; expire
-					3H )	; minimum
-	NS	@
-	A	192.168.1.1
-	PTR	server.dmgeneralov.net.
-
+$ORIGIN .
+$TTL 86400	; 1 day
+1.168.192.in-addr.arpa	IN SOA	1.168.192.in-addr.arpa. server.dmgeneralov.net. (
+				2023111601 ; serial
+				86400      ; refresh (1 day)
+				3600       ; retry (1 hour)
+				604800     ; expire (1 week)
+				10800      ; minimum (3 hours)
+				)
+			NS	1.168.192.in-addr.arpa.
+			A	192.168.1.1
+			PTR	server.dmgeneralov.net.
 $ORIGIN 1.168.192.in-addr.arpa.
-1	PTR	server.dmgeneralov.net.
-1	PTR	ns.dmgeneralov.net.
+1			PTR	server.dmgeneralov.net.
+			PTR	ns.dmgeneralov.net.
+			PTR	dhcp.dmgeneralov.net.
+$TTL 300	; 5 minutes
+30			PTR	client.dmgeneralov.net.

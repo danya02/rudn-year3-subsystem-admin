@@ -1,0 +1,1677 @@
+managed-keys-zone: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+zone localhost/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Initializing automatic trust anchor management for zone '.'; DNSKEY ID 20326 is now trusted, waiving the normal 30-day waiting period.
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+resolver priming query complete
+network unreachable resolving '_.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+network unreachable resolving '_.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+resolver priming query complete
+network unreachable resolving '_.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.ru/A/IN': 2001:7fd::1#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+REFUSED unexpected RCODE resolving '_.ru/A/IN': 192.58.128.30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.ru/A/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 2
+zone 0.in-addr.arpa/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+network unreachable resolving '_.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+network unreachable resolving '_.ru/A/IN': 2001:dc3::35#53
+network unreachable resolving '_.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving '_.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:a8::e#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:dc3::35#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+resolver priming query complete
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fe::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:7fd::1#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:1::53#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2::c#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:9f::42#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:200::b#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2f::f#53
+network unreachable resolving '_.yandex.ru/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 3
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 4
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+resolver priming query complete
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 5
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 6
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111100
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+resolver priming query complete
+client @0x7fd4645c1158 127.0.0.1#54889 (dmgeneralov.net): transfer of 'dmgeneralov.net/IN': AXFR started (serial 2023111100)
+client @0x7fd4645c1158 127.0.0.1#54889 (dmgeneralov.net): transfer of 'dmgeneralov.net/IN': AXFR ended: 1 messages, 6 records, 177 bytes, 0.001 secs (177000 bytes/sec) (serial 2023111100)
+FORMERR resolving './NS/IN': 192.203.230.10#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+resolver priming query complete
+FORMERR resolving './NS/IN': 193.0.14.129#53
+FORMERR resolving './NS/IN': 192.33.4.12#53
+FORMERR resolving './NS/IN': 199.7.91.13#53
+FORMERR resolving './NS/IN': 192.112.36.4#53
+FORMERR resolving './NS/IN': 202.12.27.33#53
+FORMERR resolving './NS/IN': 192.5.5.241#53
+FORMERR resolving './NS/IN': 199.7.83.42#53
+FORMERR resolving './NS/IN': 192.36.148.17#53
+FORMERR resolving './NS/IN': 198.97.190.53#53
+FORMERR resolving './NS/IN': 198.41.0.4#53
+FORMERR resolving './NS/IN': 192.58.128.30#53
+FORMERR resolving './NS/IN': 199.9.14.201#53
+FORMERR resolving './NS/IN': 192.203.230.10#53
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 7
+zone 0.in-addr.arpa/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 1.0.0.1#53
+network unreachable resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './DNSKEY/IN': 1.1.1.1#53
+network unreachable resolving './NS/IN': 193.0.14.129#53
+network unreachable resolving './DNSKEY/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './DNSKEY/IN': 193.0.14.129#53
+network unreachable resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './DNSKEY/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './DNSKEY/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './DNSKEY/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './DNSKEY/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './DNSKEY/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './DNSKEY/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './DNSKEY/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './DNSKEY/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 192.5.5.241#53
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './DNSKEY/IN': 192.5.5.241#53
+resolver priming query complete
+network unreachable resolving './DNSKEY/IN': 192.36.148.17#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111100
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 202.12.27.33#53
+listening on IPv4 interface eth0, 10.0.2.15#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+resolver priming query complete
+no longer listening on 192.168.1.1#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 8
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111100
+zone 1.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 9
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111600
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111600
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 10
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111600
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111600
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+client @0x7fe4b05caba8 127.0.0.1#48348: updating zone 'dmgeneralov.net/IN': adding an RR at 'client.dmgeneralov.net' A 192.168.1.30
+client @0x7fe4b05caba8 127.0.0.1#48348: updating zone 'dmgeneralov.net/IN': adding an RR at 'client.dmgeneralov.net' TXT "31a02accc76fb2af360c925e6363ebaa78"
+client @0x7fe4b05caba8 127.0.0.1#48348: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' PTR
+client @0x7fe4b05caba8 127.0.0.1#48348: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' PTR client.dmgeneralov.net.
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 11
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111601
+zone localhost/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111601
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 12
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111601
+zone dmgeneralov.net/IN: loaded serial 2023111601
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+resolver priming query complete

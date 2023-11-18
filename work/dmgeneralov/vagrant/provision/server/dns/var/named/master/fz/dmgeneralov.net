@@ -1,13 +1,19 @@
-$TTL 1D
-@	IN SOA	@ server.dmgeneralov.net. (
-					2023111100	; serial
-					1D	; refresh
-					1H	; retry
-					1W	; expire
-					3H )	; minimum
-	NS	@
-	A	192.168.1.1
+$ORIGIN .
+$TTL 86400	; 1 day
+dmgeneralov.net		IN SOA	dmgeneralov.net. server.dmgeneralov.net. (
+				2023111601 ; serial
+				86400      ; refresh (1 day)
+				3600       ; retry (1 hour)
+				604800     ; expire (1 week)
+				10800      ; minimum (3 hours)
+				)
+			NS	dmgeneralov.net.
+			A	192.168.1.1
 $ORIGIN dmgeneralov.net.
-
-server	A	192.168.1.1
-ns	A	192.168.1.1
+$TTL 300	; 5 minutes
+client			A	192.168.1.30
+			TXT	"31a02accc76fb2af360c925e6363ebaa78"
+$TTL 86400	; 1 day
+dhcp			A	192.168.1.1
+ns			A	192.168.1.1
+server			A	192.168.1.1
