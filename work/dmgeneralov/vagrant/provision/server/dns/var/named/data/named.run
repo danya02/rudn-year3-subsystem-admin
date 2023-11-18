@@ -1675,3 +1675,181 @@ all zones loaded
 running
 managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
 resolver priming query complete
+timed out resolving 'wildcard.fedoraproject.org/AAAA/IN': 1.1.1.1#53
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 13
+zone 0.in-addr.arpa/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 1.0.0.1#53
+network unreachable resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './DNSKEY/IN': 1.1.1.1#53
+network unreachable resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './DNSKEY/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './DNSKEY/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './DNSKEY/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './DNSKEY/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 192.5.5.241#53
+network unreachable resolving './DNSKEY/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './DNSKEY/IN': 192.5.5.241#53
+network unreachable resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './DNSKEY/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './DNSKEY/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 199.9.14.201#53
+network unreachable resolving './DNSKEY/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './DNSKEY/IN': 199.9.14.201#53
+network unreachable resolving './NS/IN': 193.0.14.129#53
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+network unreachable resolving './DNSKEY/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './DNSKEY/IN': 193.0.14.129#53
+network unreachable resolving './DNSKEY/IN': 192.112.36.4#53
+zone dmgeneralov.net/IN: loaded serial 2023111601
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111601
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 1.0.0.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 1.1.1.1#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.33.4.12#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.36.148.17#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.112.36.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 199.7.91.13#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 198.97.190.53#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.5.5.241#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.58.128.30#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 202.12.27.33#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 199.9.14.201#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 199.7.83.42#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 193.0.14.129#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 192.203.230.10#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/A/IN': 198.41.0.4#53
+network unreachable resolving '2.rocky.pool.ntp.org.user.net/AAAA/IN': 198.41.0.4#53
+listening on IPv4 interface eth0, 10.0.2.15#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+client @0x7f05144eb2c8 127.0.0.1#60967: updating zone 'dmgeneralov.net/IN': deleting an RR at client.dmgeneralov.net A
+client @0x7f05144eb2c8 127.0.0.1#60967: updating zone 'dmgeneralov.net/IN': deleting an RR at client.dmgeneralov.net TXT
+client @0x7f05144eb2c8 127.0.0.1#60967: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' PTR
+resolver priming query complete
+no longer listening on 192.168.1.1#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+client @0x7f05145e7448 127.0.0.1#60967: updating zone 'dmgeneralov.net/IN': adding an RR at 'client.dmgeneralov.net' A 192.168.1.30
+client @0x7f05145e7448 127.0.0.1#60967: updating zone 'dmgeneralov.net/IN': adding an RR at 'client.dmgeneralov.net' TXT "31a02accc76fb2af360c925e6363ebaa78"
+client @0x7f05145e7448 127.0.0.1#60967: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' PTR
+client @0x7f05145e7448 127.0.0.1#60967: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' PTR client.dmgeneralov.net.
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 14
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111603
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111604
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+timed out resolving 'telemetry-incoming.r53-2.services.mozilla.com/AAAA/IN': 1.1.1.1#53
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 15
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111604
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111603
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+exiting
+managed-keys-zone: loaded serial 16
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2023111603
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone dmgeneralov.net/IN: loaded serial 2023111605
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
