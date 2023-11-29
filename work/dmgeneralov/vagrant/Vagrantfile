@@ -60,6 +60,11 @@ Vagrant.configure("2") do |config|
                         preserve_order: true,
                         path: "provision/server/mysql.sh"
 
+    server.vm.provision "server firewall",
+                        type: "shell",
+                        preserve_order: true,
+                        path: "provision/server/firewall.sh"
+
 
     
     server.vm.provider :virtualbox do |v|
