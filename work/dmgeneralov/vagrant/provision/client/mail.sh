@@ -10,3 +10,5 @@ postconf -e 'mydomain = dmgeneralov.net'
 echo "Start postfix service"
 systemctl enable postfix
 systemctl start postfix
+
+dnf -y install evolution
