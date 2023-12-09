@@ -11,4 +11,4 @@ echo "Start postfix service"
 systemctl enable postfix
 systemctl start postfix
 
-dnf -y install evolution
+dnf -y install evolution telnet
