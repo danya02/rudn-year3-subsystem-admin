@@ -75,6 +75,11 @@ Vagrant.configure("2") do |config|
                         preserve_order: true,
                         path: "provision/server/ssh.sh"
 
+    server.vm.provision "server ntp",
+                        type: "shell",
+                        preserve_order: true,
+                        path: "provision/server/ntp.sh"
+
 
     
     server.vm.provider :virtualbox do |v|
@@ -124,6 +129,11 @@ Vagrant.configure("2") do |config|
                         type: "shell",
                         preserve_order: true,
                         path: "provision/client/mail.sh"
+
+    client.vm.provision "client ntp",
+                        type: "shell",
+                        preserve_order: true,
+                        path: "provision/client/ntp.sh"
 
 
     client.vm.provider :virtualbox do |v|
