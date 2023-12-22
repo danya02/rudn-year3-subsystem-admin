@@ -80,6 +80,10 @@ Vagrant.configure("2") do |config|
                         preserve_order: true,
                         path: "provision/server/ntp.sh"
 
+    server.vm.provision "server nfs",
+                        type: "shell",
+                        preserve_order: true,
+                        path: "provision/server/nfs.sh"
 
     
     server.vm.provider :virtualbox do |v|
@@ -134,6 +138,11 @@ Vagrant.configure("2") do |config|
                         type: "shell",
                         preserve_order: true,
                         path: "provision/client/ntp.sh"
+    
+    client.vm.provision "client nfs",
+                        type: "shell",
+                        preserve_order: true,
+                        path: "provision/client/nfs.sh"
 
 
     client.vm.provider :virtualbox do |v|
